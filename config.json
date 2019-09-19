@@ -1,0 +1,14 @@
+{
+  "name": "Norman",
+  "avatar": "./data/norman.jpg",
+  "server_ip": "127.0.0.1",
+  "server_port": "8080",
+  "token": "",
+  "owner": 111111111111111111,
+  "server": 222222222222222222,
+  "role": {
+    "admin": 333333333333333333,
+    "bot": 444444444444444444,
+    "approved": 555555555555555555
+  }
+}
